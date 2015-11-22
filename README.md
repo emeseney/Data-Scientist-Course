@@ -1,2 +1,2 @@
-# Data-Scientist-Course
+# datasciencecoursera
 Repo for the Data Scientist Course
